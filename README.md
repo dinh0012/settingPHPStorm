@@ -10,7 +10,7 @@
 0.0.0.0 account.jetbrains.com
 
 # create desktop shortcut
-`#!/usr/bin/env xdg-open
+#!/usr/bin/env xdg-open
 
 [Desktop Entry]
 
@@ -26,7 +26,7 @@ Name=PhpStorm
 
 Comment=PhpStorm
 
-Icon=/home/dinhnv/Software/PhpStorm/bin/phpstorm.png`
+Icon=/home/dinhnv/Software/PhpStorm/bin/phpstorm.png
 
 # active code active until Junly 26, 2020
 
